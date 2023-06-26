@@ -1,0 +1,20 @@
+.list{
+    display: flex;
+    flex-direction: column;
+    margin: 50px auto;
+}
+
+.list h1{
+    color: #fff;
+    text-align: center;
+}
+
+.list td{
+    list-style: none;
+    margin: 10px;
+    width: 100%;
+}
+
+.hidden{
+    visibility: hidden;
+}

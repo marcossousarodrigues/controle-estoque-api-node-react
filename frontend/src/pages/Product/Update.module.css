@@ -1,0 +1,9 @@
+
+.blur {
+    filter: blur(4px);
+}
+
+.screen{
+    display: flex;
+    flex-direction: row;
+}
