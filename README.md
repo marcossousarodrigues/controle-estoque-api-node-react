@@ -84,4 +84,27 @@ Por fim, o sistema oferece a funcionalidade de Upload de Imagens, permitindo o r
 
 ![image](https://github.com/marcossousarodrigues/controle-de-estoque-e-adm-de-usuarios/assets/49259832/421bdcbf-9948-4530-97d7-6bb016a2a7cf)
 
-
+<h2>Tecnologias Utilizadas</h2>
+<ul>
+  <li>
+    HTML (Hypertext Markup Language): Utilizado para estruturar e organizar o conteúdo das páginas web, incluindo formulários, tabelas e outros elementos.
+  </li>
+  <li>
+    CSS (Cascading Style Sheets): Responsável por definir o estilo e a aparência visual das páginas, como cores, fontes, layouts e animações.
+  </li>
+  <li>
+    Bootstrap: Framework front-end utilizado para criar interfaces responsivas e estilizadas de forma rápida e eficiente, através do uso de componentes pré-estabelecidos e classes CSS.
+  </li>
+  <li>
+    React JS: Biblioteca JavaScript utilizada para desenvolver componentes de interface de usuário dinâmicos e interativos, facilitando a construção de uma aplicação web moderna e eficiente.
+  </li>
+  <li>
+    Node.js: Plataforma de desenvolvimento back-end que permite a criação de servidores web e o gerenciamento de requisições HTTP, bem como a integração com bancos de dados como o MySQL.
+  </li>
+  <li>
+    MySQL: Sistema de gerenciamento de banco de dados relacional utilizado para armazenar e gerenciar dados relacionados ao sistema, como informações de usuários, produtos, fornecedores e outras entidades.
+  </li>
+</ul>
+<p>
+Essas tecnologias foram escolhidas visando a criação de uma aplicação web completa, com uma interface amigável e responsiva, funcionalidades dinâmicas e uma estrutura de dados robusta e escalável. A combinação dessas tecnologias proporciona um ambiente de desenvolvimento moderno e eficiente para o projeto em questão.
+</p>
