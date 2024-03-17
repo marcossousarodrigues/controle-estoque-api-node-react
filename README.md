@@ -16,7 +16,8 @@ Sistema desenvolvido em react js, node js e mysql
 O sistema possuí uma tela de login, onde os usuários podem acessar digitando seu e-mail e senha. Caso o usuário não tenha um login cadastrado, há a opção de solicitar o cadastro ao administrador do sistema, proporcionando uma maneira segura e controlada de acesso às funcionalidades disponíveis. Essa abordagem garante a integridade dos dados e o gerenciamento adequado dos perfis de usuários no sistema.
 </p>
 
-![image](https://github.com/marcossousarodrigues/controle-de-estoque-e-adm-de-usuarios/assets/49259832/3b034897-6d50-4bd9-919a-313b3b924668)
+![image](https://github.com/marcossousarodrigues/controle-de-estoque-e-adm-de-usuarios/assets/49259832/bce087eb-9381-4c48-95a1-deda7ae4dbb8)
+
 
 <h2>Produtos</h2>
 <p>
@@ -30,6 +31,10 @@ Na seção de Produtos, é possível cadastrar novos produtos com informações 
 
 ![image](https://github.com/marcossousarodrigues/controle-de-estoque-e-adm-de-usuarios/assets/49259832/e2efa21d-4f60-4ac7-ae6f-edff84f2fbaf)
 
+![image](https://github.com/marcossousarodrigues/controle-de-estoque-e-adm-de-usuarios/assets/49259832/89a3cce3-2059-422d-8a68-5f3f49bb6425)
+
+
+
 <h2>Fornecedor</h2>
 <p>
 No que diz respeito aos Fornecedores, o sistema permite o cadastro de novos fornecedores, a alteração de informações de fornecedores existentes e a listagem de todos os fornecedores registrados, tornando mais simples o gerenciamento desses contatos comerciais. Também é possível realizar pesquisas específicas de fornecedores por nome, CNPJ, entre outros critérios.
@@ -37,6 +42,8 @@ No que diz respeito aos Fornecedores, o sistema permite o cadastro de novos forn
 
 
 ![image](https://github.com/marcossousarodrigues/controle-de-estoque-e-adm-de-usuarios/assets/49259832/efb6e148-3c90-4654-85b1-da417aeb74e8)
+
+![image](https://github.com/marcossousarodrigues/controle-de-estoque-e-adm-de-usuarios/assets/49259832/b38d530b-96c4-4714-9026-011b1a6b5a0a)
 
 
 <h2>Unidade de medida</h2>
@@ -47,6 +54,9 @@ As Unidades de Medida são facilmente gerenciadas através do sistema, com a pos
 
 ![image](https://github.com/marcossousarodrigues/controle-de-estoque-e-adm-de-usuarios/assets/49259832/813a13f0-4c72-4452-825c-79f38602439e)
 
+![image](https://github.com/marcossousarodrigues/controle-de-estoque-e-adm-de-usuarios/assets/49259832/562e8b1b-1855-470f-9bb1-791e947c229b)
+
+
 
 <h2>Categoria do Produto</h2>
 <p>
@@ -54,6 +64,9 @@ A gestão das Categorias de Produtos também é contemplada, permitindo o cadast
 </p>
 
 ![image](https://github.com/marcossousarodrigues/controle-de-estoque-e-adm-de-usuarios/assets/49259832/208ab08d-3c86-4f31-b018-7a24aec0f1ce)
+
+![image](https://github.com/marcossousarodrigues/controle-de-estoque-e-adm-de-usuarios/assets/49259832/8123e79e-67e4-48ee-a904-e9b72b620d10)
+
 
 
 <h2>Administração de Usuários</h2>
